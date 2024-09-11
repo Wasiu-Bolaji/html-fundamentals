@@ -1,0 +1,11 @@
+1. In your project folder, create an image folder(for images) and five files(index, blog, news, contact and faqs). Each file should have a description. e.g blog file with a title "My Blog". 
+      
+2. Your will be writing semantic HTML all through. Therefore, have four section inside the body of your index file. The sections are: header section(use header tag), article section(use article tag), aside section(use aside tag) and footer section(use footer tag).
+
+3. In the header section, create an h1(h1) and a nav(nav) tags. Your h1 should be titled "The Code Magazine". Your nav bar should have the following links (linking to and from your index.html): My Blog, News, Contact and FAQs.
+
+That's all for the header section.
+
+4. In the article section, have a header tag and two div tags.
+
+Inside the header,
